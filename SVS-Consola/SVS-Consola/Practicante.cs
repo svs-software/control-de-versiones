@@ -8,6 +8,7 @@ namespace SVS_Consola
 {
     class Practicante
     {
-
+        public string Id;
+        public string Nombre;
     }
 }

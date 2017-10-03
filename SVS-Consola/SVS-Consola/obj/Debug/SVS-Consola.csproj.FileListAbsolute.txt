@@ -5,3 +5,8 @@ A:\SVS\control-de-versiones\SVS-Consola\SVS-Consola\bin\Debug\SVS-Consola.pdb
 A:\SVS\control-de-versiones\SVS-Consola\SVS-Consola\obj\Debug\SVS-Consola.csprojResolveAssemblyReference.cache
 A:\SVS\control-de-versiones\SVS-Consola\SVS-Consola\obj\Debug\SVS-Consola.exe
 A:\SVS\control-de-versiones\SVS-Consola\SVS-Consola\obj\Debug\SVS-Consola.pdb
+C:\Users\Alice\Documents\GitHub\control-de-versiones\SVS-Consola\SVS-Consola\bin\Debug\SVS-Consola.exe.config
+C:\Users\Alice\Documents\GitHub\control-de-versiones\SVS-Consola\SVS-Consola\obj\Debug\SVS-Consola.exe
+C:\Users\Alice\Documents\GitHub\control-de-versiones\SVS-Consola\SVS-Consola\obj\Debug\SVS-Consola.pdb
+C:\Users\Alice\Documents\GitHub\control-de-versiones\SVS-Consola\SVS-Consola\bin\Debug\SVS-Consola.exe
+C:\Users\Alice\Documents\GitHub\control-de-versiones\SVS-Consola\SVS-Consola\bin\Debug\SVS-Consola.pdb
