@@ -35,6 +35,8 @@ namespace SVS_Consola
             Console.WriteLine("ID: " + P3.Id);
             Console.WriteLine("NOmber: " + P3.Nombre);
 
+            Console.ReadKey();
+
         }
     }
 }
