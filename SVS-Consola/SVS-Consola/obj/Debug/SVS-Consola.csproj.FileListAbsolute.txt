@@ -1,1 +1,2 @@
 c:\users\robert\documents\visual studio 2013\Projects\SVS-Consola\SVS-Consola\bin\Debug\SVS-Consola.exe.config
+A:\SVS\control-de-versiones\SVS-Consola\SVS-Consola\bin\Debug\SVS-Consola.exe.config
